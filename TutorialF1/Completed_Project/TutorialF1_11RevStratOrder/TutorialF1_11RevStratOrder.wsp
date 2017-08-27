@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<VLDocking version="2.1">
+<DockingDesktop name="">
+<DockingPanel>
+<Split orientation="1" location="0.17761194029850746">
+<Dockable>
+<Key dockName="Explore"/>
+</Dockable>
+<Split orientation="1" location="0.4990892531876138">
+<Split orientation="0" location="0.5022421524663677">
+<Dockable>
+<Key dockName="Map_DTM"/>
+</Dockable>
+<TabbedDockable>
+<Dockable>
+<Key dockName="s166201N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s166800N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167000N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167200N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167400N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167799N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s507200E"/>
+</Dockable>
+<Dockable>
+<Key dockName="s507400E"/>
+</Dockable>
+</TabbedDockable>
+</Split>
+<Dockable>
+<Key dockName="3D View"/>
+</Dockable>
+</Split>
+</Split>
+</DockingPanel>
+<TabGroups>
+<TabGroup>
+<Dockable>
+<Key dockName="s166201N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s166800N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167000N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167200N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167400N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s167799N"/>
+</Dockable>
+<Dockable>
+<Key dockName="s507200E"/>
+</Dockable>
+<Dockable>
+<Key dockName="s507400E"/>
+</Dockable>
+</TabGroup>
+</TabGroups>
+</DockingDesktop>
+</VLDocking>

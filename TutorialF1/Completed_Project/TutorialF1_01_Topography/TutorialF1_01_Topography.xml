@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Project3DEdit xmlns="http://www.geomodeller.com/geo" CoordSystem="Local" author="PMMcI" date="18/ 8/2005 10: 1: 5" deflection2d="0.001" deflection3d="0.001" description="Purnama, Newmont, Indonesia. Brian Levet et al paper, SMEDGE website" discretisation="10" dynamicSelection="true" pickingFactor="5" precision="1" projectName="01_Purnama_Topography" unit="M" version="1.0" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <Extent3DOfProject>
+    <ExtentBox3D>
+      <Extent3D>
+        <ExtentXY Xmax="508000" Xmin="506300" Ymax="167800" Ymin="166200"/>
+        <ExtentZ Zmax="300" Zmin="0"/>
+      </Extent3D>
+      <GraphicTitle Title="01_Purnama_Topography">
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+        <Location>
+          <gml:coordinates>506300,166200,0</gml:coordinates>
+        </Location>
+      </GraphicTitle>
+      <GraphicBox3d>
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+      </GraphicBox3d>
+      <GraphicTick DensityAlongX="2" DensityAlongY="2" DensityAlongZ="2" OnOff="true" TickLength="64">
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+      </GraphicTick>
+      <GraphicLabel LabelFormat="%.1f" OnOff="true">
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+      </GraphicLabel>
+    </ExtentBox3D>
+    <TriAxis>
+      <Axis3DDefinition LabelOrigin="" LabelX="" LabelY="" LabelZ="" OnOff="true" Radius="8.5" Size="34" Step="170">
+        <gml:Point>
+          <gml:coordinates>506130,166030,0</gml:coordinates>
+        </gml:Point>
+        <Length LengthX="170" LengthY="170" LengthZ="170"/>
+      </Axis3DDefinition>
+      <GraphicOrigin>
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+      </GraphicOrigin>
+      <GraphicAxisX>
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+      </GraphicAxisX>
+      <GraphicAxisY>
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+      </GraphicAxisY>
+      <GraphicAxisZ>
+        <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="4" TEXT_SIZE="1">
+          <ColorShading Blue="255" Green="255" Red="255"/>
+          <ColorWireFrame Blue="255" Green="255" Red="255"/>
+        </Graphic>
+      </GraphicAxisZ>
+    </TriAxis>
+  </Extent3DOfProject>
+
+  <Sections>
+    <Section Description="DTM from file" IsAxialSurface="false" Name="Map_DTM">
+      <Graphic LINE_TYPE="0" LINE_WIDTH="1" MARKER_SYMBOL="3" MARKER_SYMBOL_SIZE="1" SURFACE_CONTOUR_DENSITY_U="0" SURFACE_CONTOUR_DENSITY_V="0" SURFACE_RENDERING_MODE="0" SURFACE_TEXTURE_EFFECT="9" SURFACE_TRANSPARENCY="0" TEXT_ASPECT_RATIO="1" TEXT_FONT_FACE="0" TEXT_SIZE="1">
+        <ColorShading Blue="202" Green="191" Red="255"/>
+        <ColorWireFrame Blue="0" Green="255" Red="255"/>
+      </Graphic>
+      <Shape3DOfSection FileName="TutorialF1_01_Topography_Map_DTM.sec"/>
+      <ImageUnderLays>
+        <ImageUnderLay Filename="PurnamaGeology.jpg">
+          <ExtentUV Umax="508000" Umin="506300" Vmax="167800" Vmin="166200"/>
+        </ImageUnderLay>
+      </ImageUnderLays>
+    </Section>
+  </Sections>
+
+</Project3DEdit>
