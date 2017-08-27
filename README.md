@@ -1,1 +1,1 @@
-# geomodeller.tutorials.CaseStudyF
+# GeoModeller CaseStudyF (Purnama)
